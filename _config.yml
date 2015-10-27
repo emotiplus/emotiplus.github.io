@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://emotiplus.github.io
+title: Emotiplus
+tagline: A log of everyday life
+description: Plate-forme d'échange autour de Emotiplus
+paginate: 5
