@@ -1,8 +1,8 @@
-excerpt_separator: ""
+excerpt_separator: "\n"
 pygments: true
 markdown: kramdown
 url: http://emotiplus.github.io
 title: Emotiplus
 tagline: A log of everyday life
-description: Plate-forme d'échange autour de Emotiplus
+description: Plate-forme d'Ã©change autour de Emotiplus
 paginate: 5
